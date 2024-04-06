@@ -2,7 +2,6 @@
 
 ## Get Started
 
-
 ### DNS 배포하기
 
 ```tf

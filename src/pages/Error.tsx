@@ -1,4 +1,3 @@
-import React from "react";
 import { StBody } from "./Home";
 import { useNavigate } from "react-router-dom";
 import Button from "../component/Button";
